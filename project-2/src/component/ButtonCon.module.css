@@ -1,0 +1,23 @@
+
+
+.mainButtonContainer{
+  width: 100px;
+}
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+
+}
+.button{
+  height:45px;
+  width: 45px;
+  margin:10px;
+  background-color: rgb(228, 188, 188);
+  border-radius: 5px;
+}
+.button:hover{
+  background-color: green;
+}

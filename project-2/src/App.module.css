@@ -1,0 +1,50 @@
+
+body{
+  border: 2px solid red;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.claculator{
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 70%;
+  width: 250px;
+  margin: 20px;
+  background-color: rgb(221, 195, 164);
+  
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  
+}
+/* .display{
+  margin: 20px;
+  height: 40px;
+  width:205px;
+  font-size: 2rem;
+  
+
+} */
+/* .mainButtonContainer{
+  width: 100px;
+}
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+
+}
+.button{
+  height:45px;
+  width: 45px;
+  margin:10px;
+  background-color: rgb(228, 188, 188);
+}
+.button:hover{
+  background-color: green;
+} */
